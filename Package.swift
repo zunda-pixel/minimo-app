@@ -4,6 +4,10 @@ import PackageDescription
 
 let package = Package(
   name: "Minimo",
+  defaultLocalization: "ja",
+  platforms: [
+    .iOS(.v18),
+  ],
   products: [
     .library(
       name: "Minimo",
@@ -11,7 +15,7 @@ let package = Package(
     ),
   ],
   dependencies: [
-    .package(url: "https://github.com/siteline/swiftui-introspect", from: "1.3.0"),
+    .package(url: "https://github.com/zunda-pixel/swiftui-introspect", branch: "add-UISheetPresentationController"),
   ],
   targets: [
     .target(
