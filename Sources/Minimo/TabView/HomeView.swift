@@ -263,9 +263,13 @@ Hair Color
         popularMenuSection
       }
         .listStyle(.plain)
+        #if !os(macOS)
         .listSectionSpacing(0)
-        .navigationTitle("Home")
+        #endif
+        .navigationTitle(Text("Home"))
+        #if !os(macOS)
         .navigationBarTitleDisplayMode(.inline)
+        #endif
         .toolbar {
           ToolbarItem(placement: .principal) {
             Text("minimo")

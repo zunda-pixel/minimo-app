@@ -7,6 +7,7 @@ let package = Package(
   defaultLocalization: "ja",
   platforms: [
     .iOS(.v18),
+    .macOS(.v15),
   ],
   products: [
     .library(
@@ -15,7 +16,7 @@ let package = Package(
     ),
   ],
   dependencies: [
-    .package(url: "https://github.com/zunda-pixel/swiftui-introspect", branch: "add-UISheetPresentationController"),
+    .package(url: "https://github.com/siteline/swiftui-introspect.git", from: "1.3.0"),
   ],
   targets: [
     .target(
