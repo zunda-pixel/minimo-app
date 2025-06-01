@@ -7,7 +7,7 @@ struct ContentView: View {
   func tabContent(_ tab: TabItem) -> some View {
     switch tab {
     case .home: HomeView()
-    case .search: Text("Search")
+    case .search: SearchView()
     case .snapshot: Text("Snapshot")
     case .message: Text("Message")
     case .favorite: Text("Favorite")

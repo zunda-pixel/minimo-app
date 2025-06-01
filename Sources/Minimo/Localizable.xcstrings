@@ -1,6 +1,16 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Chiba" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "千葉"
+          }
+        }
+      }
+    },
     "Cut +\nHair Color" : {
       "localizations" : {
         "ja" : {
@@ -11,12 +21,42 @@
         }
       }
     },
+    "Date" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日時"
+          }
+        }
+      }
+    },
+    "Detail Search" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "こだわり条件"
+          }
+        }
+      }
+    },
     "Diagnosis" : {
       "localizations" : {
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "美容診断"
+          }
+        }
+      }
+    },
+    "Display Map" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マップを表示"
           }
         }
       }
@@ -52,6 +92,16 @@
         }
       }
     },
+    "Fee" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "料金"
+          }
+        }
+      }
+    },
     "Find from Date" : {
       "localizations" : {
         "ja" : {
@@ -71,9 +121,6 @@
           }
         }
       }
-    },
-    "Hello" : {
-
     },
     "Home" : {
       "extractionState" : "manual",
@@ -106,6 +153,56 @@
         }
       }
     },
+    "Kato" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加藤"
+          }
+        }
+      }
+    },
+    "Kiuchi" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "木内"
+          }
+        }
+      }
+    },
+    "Kyoto" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "京都"
+          }
+        }
+      }
+    },
+    "Location" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場所"
+          }
+        }
+      }
+    },
+    "Menu" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メニュー"
+          }
+        }
+      }
+    },
     "Message" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -118,10 +215,24 @@
       }
     },
     "minimo" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minimo"
+          }
+        }
+      }
     },
-    "Money Range" : {
-
+    "Miyamoto" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "宮本"
+          }
+        }
+      }
     },
     "Nail" : {
       "localizations" : {
@@ -129,6 +240,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ネイル"
+          }
+        }
+      }
+    },
+    "Newest" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新着順"
+          }
+        }
+      }
+    },
+    "Order Type" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "並び順"
+          }
+        }
+      }
+    },
+    "Osaka" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大阪"
+          }
+        }
+      }
+    },
+    "Otsuka" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大塚"
           }
         }
       }
@@ -149,6 +300,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "人気のメニュー"
+          }
+        }
+      }
+    },
+    "Recommend" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おすすめ順"
           }
         }
       }
@@ -179,6 +340,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "予約履歴"
+          }
+        }
+      }
+    },
+    "Review" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "評価順"
+          }
+        }
+      }
+    },
+    "Saitama" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "埼玉"
+          }
+        }
+      }
+    },
+    "Salon Mixi at Shibuya" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サロンMixi 渋谷店"
+          }
+        }
+      }
+    },
+    "Sato" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "佐藤"
           }
         }
       }
@@ -225,6 +426,16 @@
         }
       }
     },
+    "Tokyo" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "東京"
+          }
+        }
+      }
+    },
     "Tommorow" : {
       "localizations" : {
         "ja" : {
@@ -241,6 +452,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "閲覧履歴"
+          }
+        }
+      }
+    },
+    "Yamashita" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "山本"
           }
         }
       }
